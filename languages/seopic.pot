@@ -1,0 +1,60 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Seopic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-19 19:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: seopic"
+
+#: includes/assets.php:19
+msgid "All media renamed successfully"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://randbe.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://randbe.com/seopic-intelligent-seo-images-for-wordpress/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Intelligent plugin which helps you automate image file renaming for better "
+"SEO."
+msgstr ""
+
+#: includes/post-content.php:24
+msgid "Post update is almost completed"
+msgstr ""
+
+#: includes/process-media.php:72
+msgid "Processing the post content"
+msgstr ""
+
+#. Author of the plugin
+msgid "randbe"
+msgstr ""
+
+#: includes/featured-image.php:74 includes/process-media.php:80
+msgid "Renaming media"
+msgstr ""
+
+#: includes/assets.php:18
+#, php-format
+msgid "Renaming media: %d left"
+msgstr ""
+
+#. Name of the plugin
+msgid "Seopic"
+msgstr ""
